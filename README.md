@@ -59,7 +59,7 @@ Estudo comparativo de performance entre algoritmos de ordenação (Bubble Sort, 
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats - Public-Repositories
 
 <p align="center">
   <img src="./assets/metrics.svg" alt="Estatísticas do GitHub" />
