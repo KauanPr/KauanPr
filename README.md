@@ -2,6 +2,10 @@
 <h3 align="center">Desenvolvedor Backend | Graduando em Engenharia de Software</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KauanPr&label=Visualiza%C3%A7%C3%B5es%20de%20perfil&color=0e75b6&style=flat" alt="Visualizações de perfil" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/kauan-cardoso-pr/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -58,7 +62,7 @@ Estudo comparativo de performance entre algoritmos de ordenação (Bubble Sort, 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KauanPr&theme=default" alt="Streak stats" />
+  <img src="./assets/metrics.svg" alt="Estatísticas do GitHub" />
 </p>
 
 ---
