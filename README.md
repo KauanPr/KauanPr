@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Kauan Cardoso 👋</h1>
+<h1 align="center">Kauan Cardoso 🏒</h1>
 <h3 align="center">Desenvolvedor Backend | Graduando em Engenharia de Software</h3>
 
 <p align="center">
